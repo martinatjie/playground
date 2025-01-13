@@ -29,6 +29,7 @@ Make them as easy and basic or as difficult and complex as you like!
 - app that makes it super easy for older people who have small businesses to get an online presence e.g. it can auto-post things to facebook, instagram etc.
 - app that simplifies the complexities of medical aid schemes and insurance schemes
 - app that uses yield return so that you can determine when you can buy/afford what on your budget
+- Arduino or circuit board simulator
 - attachment saver and sorter
 - auto delete app that works with AI and checks what has been deleted in the past to determine if something needs to be deleted
 - Balderdash style game with Svelte and a document db
@@ -40,9 +41,11 @@ Make them as easy and basic or as difficult and complex as you like!
 - CMS to create coding blogs specifically
 - Code some electronic decorations for celebratory cakes e.g. lights, special effects, sound etc.
 - Coding/Work stats tracker and analyser
+- code visualiser
 - Content repurposing app with AI
 - create an OS
 - cupboard design app
+- data exporter from various formats into various formats
 - dev video editor with censorer / blur when there are sensitive items on screen
 - Discovery simplifier and reward finder ;-) this goes for any convoluted policies!
 - DnD character generator
@@ -57,8 +60,8 @@ Make them as easy and basic or as difficult and complex as you like!
 - Filing & expenses app
 - Game remakes: - e.g. Bingo, various boardgames like Cluedo, Monopoly, Scrabble etc. (make them print 'n play)
 - Game Timer
-- garden design app that suggests things based on industry knowledge
-- Garden planner app using ML
+- garden design/planner app that can help you map out your perfect garden and suggests improvements based on industry knowledge & ML
+- Gift registry app (and browser extension) that allows you to add items from anywhere with links to the purchase location
 - Gmail email sorter
 - greeting card app
 - helper app for people with ADHD or people who are not good at time and capacity management / executive functioning which tells them when they've taken on too much and suggests how to divide and conquer. It should also help with prioritizing - e.g. comparing things with one another or allowing you to compare and then choose which one is better to tackle first.
@@ -66,6 +69,7 @@ Make them as easy and basic or as difficult and complex as you like!
 - I almost never put my stuff into the appropriate folders when I save them. Why? It's tedious to go through the whole nav menu to find the folder I want to save it in. Solution: A file explorer that makes good suggestions where to save a file.
 - Infographic maker
 - instrument
+- investment success calculator
 - irrigation system with multiple channels
 - It is difficult to find files once saved. It's also difficult to find attachments in gmail if you cannot find the saved file and have to go back to the source to find it.Solution: An event list, like an audit list showing when I did/saved what and with what file name. A gmail attachment finder. OR a better mail client. OR a browser extension for gmail.
 - Journal making app where users can add their own topics that they wish to track
@@ -75,6 +79,7 @@ Make them as easy and basic or as difficult and complex as you like!
 - Mad libs generator
 - Make an app with Bogus/Faker that populates millions of rows dummy data for testing
 - make up a fantasy business and code a program for them
+- Make your own IDE
 - map maker with a randomizer - you can choose how you want to create your map e.g. spill some rice on a virtual table and draw outlines based on where the rice landed
 - Mastermind game
 - Medication + side effects / symptoms / mood tracker and analyser
@@ -89,6 +94,7 @@ Make them as easy and basic or as difficult and complex as you like!
 - packing app that works according to the weather forecast for the period you are on vacation and activities you will do, with AI prompts.
 - paint by algorithm
 - Party planning app with checklists categorized as "do upfront", "do on the day" etc.
+- Password vault
 - Payment gateway
 - personal substack-like app to catch up on any documents from anywhere on your drives
 - Planning poker game with various "point" options and customizable e.g. t-shirt sizing, animals, fibonacci etc.
@@ -99,9 +105,11 @@ Make them as easy and basic or as difficult and complex as you like!
 - Problem: Windows search is extremely slow and after search results it is still extremely cumbersome to check which file is the right one. Solution: Scenarios that I want to use instead of a global search... I want to tell AI what I am looking for in natural language. It should then figure out what kinds of search criteria to apply. Very much like OpenAI/ChatGPT/Bingbot/Bard - it should be super quick and very accurate and helpful. It should be able to also answer questions for me without me having to open a file and finding the answer myself.</blue>
 - publish-to-all-social
 - Puzzle maker
+- retirement annuity outcome calculator
 - Retro remakes of DOS games like Ski, Pacman etc. but in Unity.
 - rubber ducky finding game: players decorate and hide a ducky in a world and other players try to find as many ducks as possible
 - Salary calculator
+- salary raise efficiency calculator based on inflation
 - Shift planner
 - Shopping list app - always on, shop by aisle feature, auto-sort
 - Sign language app where people in deaf community can upload signs (co-creation) - try validate using AI
@@ -129,6 +137,7 @@ Make them as easy and basic or as difficult and complex as you like!
 - when clicking a link, if the tab is already open, focus on the tab and do not reopen the link
 - whiteboard similar to Miro
 - write a common algorithm in various different programming languages
+- write a Lulu.com book about coding using its API
 - write an own backend programming language that makes a few things that annoy me with C# easier - e.g. lots of words for things are not intuitive enough especially for foreign language speakers and people who don't have any other programming or computer science background. It should also make error handling and logging super easy and have cool null handling options.
 - Write your own logging, authentication/authorization, monitoring or error handling middleware
 - Yaml Helper for K8s newbies
