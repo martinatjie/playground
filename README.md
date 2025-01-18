@@ -54,6 +54,7 @@ Make them as easy and basic or as difficult and complex as you like!
 - Documentation writing app / (for Playbook/Runbook)
 - doorbell that allows you to play a favourite song as a chime or something from a spotify playlist
 - Dungeons and Dragons app for a dungeon master
+- dynamic visual studio project/solution template that gets you going fast
 - Email unsubscriber
 - escape room game
 - feed long PDF into AI and ask it questions based on content
@@ -88,6 +89,7 @@ Make them as easy and basic or as difficult and complex as you like!
 - murder mystery dinner game helper app
 - Music genre classifier
 - Music mood identifier & suggestions
+- music "mutator" that removes swear words from songs and replaces them with something else
 - mystery box prompt generator app with a prompt submitter which is very generic so it allows you to create any categories of prompts and clusters of prompts. It should look like a real mystery box, in other words have a really cool user interface.
 - Neighbourhood patrol app
 - OCR conversion
@@ -97,6 +99,7 @@ Make them as easy and basic or as difficult and complex as you like!
 - Password vault
 - Payment gateway
 - personal substack-like app to catch up on any documents from anywhere on your drives
+- photo book creation software
 - Planning poker game with various "point" options and customizable e.g. t-shirt sizing, animals, fibonacci etc.
 - Play with Backstage
 - Playlist creator based on prompts
@@ -123,6 +126,7 @@ Make them as easy and basic or as difficult and complex as you like!
 - Spotify plugin with better shuffle and shuffle options
 - SSL certificate auto-updater integrating with GoDaddy
 - story point identifier
+- story book maker for kids giving users a few options to change the characte name, look etc.
 - Table setting/decoration helper app
 - teams urgency sentiment checker that can turn off Teams for an X nr of minutes for focus time unless an urgent message comes through. Also warns you if you open Teams again too early and break your focus cycle.
 - test assertion converter e.g. from fluent to nsubstitute
