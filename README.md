@@ -134,6 +134,7 @@ Make them as easy and basic or as difficult and complex as you like!
 - Themed menu maker app
 - timer finder app using AI: e.g. person X does not like 1PM meetings, person Y has no-meeting Mondays etc. It then finds the best spot for a meetup based on everyone's preferences.
 - Topic generator app - e.g. a for party topics, art topics etc.
+- "Track my subscriptions and trial expiry dates" app to prevent overcharging and good use of apps
 - visual studio extension to assist with proper exception handling norms
 - VS extension that screams when there is an exception. ;-) Upload your own screams or scrape the web for scream foly
 - web scraper
