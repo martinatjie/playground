@@ -1,4 +1,4 @@
-Welcome to my
+kWelcome to my
 
 ```
 
@@ -140,6 +140,7 @@ Make them as easy and basic or as difficult and complex as you like!
 - web scraper
 - Wheel of Fortune
 - when clicking a link, if the tab is already open, focus on the tab and do not reopen the link
+- "what are the odds" chance calculator
 - whiteboard similar to Miro
 - write a common algorithm in various different programming languages
 - write a Lulu.com book about coding using its API
