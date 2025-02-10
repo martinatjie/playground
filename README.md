@@ -1,4 +1,4 @@
-kWelcome to my
+Welcome to my
 
 ```
 
@@ -47,6 +47,7 @@ Make them as easy and basic or as difficult and complex as you like!
 - cupboard design app
 - data exporter from various formats into various formats
 - dev video editor with censorer / blur when there are sensitive items on screen
+- Diamond Dot Painting maker
 - Discovery simplifier and reward finder ;-) this goes for any convoluted policies!
 - DnD character generator
 - DnD for dummies app
@@ -59,6 +60,7 @@ Make them as easy and basic or as difficult and complex as you like!
 - escape room game
 - feed long PDF into AI and ask it questions based on content
 - Filing & expenses app
+- Library for fluent log assertions, especially that work on "contains"
 - Game remakes: - e.g. Bingo, various boardgames like Cluedo, Monopoly, Scrabble etc. (make them print 'n play)
 - Game Timer
 - garden design/planner app that can help you map out your perfect garden and suggests improvements based on industry knowledge & ML
@@ -85,6 +87,7 @@ Make them as easy and basic or as difficult and complex as you like!
 - Mastermind game
 - Medication + side effects / symptoms / mood tracker and analyser
 - More advanced "pomodoro timer" that tells you when to stretch and asks you as soon as you start moving your move or keyboard again if you want to start the timer again.
+- Mouse pointer stats gatherer - like an app that checks the longest interval at which the mouse pointer is not moving while still working (e.g to track thinking time)
 - MS Teams bot
 - murder mystery dinner game helper app
 - Music genre classifier
@@ -105,6 +108,7 @@ Make them as easy and basic or as difficult and complex as you like!
 - Playlist creator based on prompts
 - Portfolio maker
 - priority sorting helper
+- Pressure sensor for your office chair that tells you when it's time to take a break
 - Problem: Windows search is extremely slow and after search results it is still extremely cumbersome to check which file is the right one. Solution: Scenarios that I want to use instead of a global search... I want to tell AI what I am looking for in natural language. It should then figure out what kinds of search criteria to apply. Very much like OpenAI/ChatGPT/Bingbot/Bard - it should be super quick and very accurate and helpful. It should be able to also answer questions for me without me having to open a file and finding the answer myself.</blue>
 - publish-to-all-social
 - Puzzle maker
@@ -136,6 +140,7 @@ Make them as easy and basic or as difficult and complex as you like!
 - Topic generator app - e.g. a for party topics, art topics etc.
 - "Track my subscriptions and trial expiry dates" app to prevent overcharging and good use of apps
 - visual studio extension to assist with proper exception handling norms
+- volunteering UI (look at websites like forgood to get inspiration)
 - VS extension that screams when there is an exception. ;-) Upload your own screams or scrape the web for scream foly
 - web scraper
 - Wheel of Fortune
