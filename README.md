@@ -153,5 +153,211 @@ Make them as easy and basic or as difficult and complex as you like!
 - Write your own logging, authentication/authorization, monitoring or error handling middleware
 - Yaml Helper for K8s newbies
 
+---
+
+## Sorted by difficulty and time it will take:
+_Disclaimer: I used ChatGPT for the sorting_
+
+### Very Easy/Very Quick
+- Alphabet Randomizer
+- Mad libs generator
+- "What are the odds" chance calculator
+- Game Timer
+- Diamond Dot Painting maker
+- Wheel of Fortune
+- SPAM/Phishing/Smishing identifier
+- "Track my subscriptions and trial expiry dates" app
+- Password vault
+- Email unsubscriber
+- MS Teams bot
+- Attachment saver and sorter
+- Game remakes: Bingo, Cluedo, etc. (print 'n play)
+- Playlist creator based on prompts
+- Topic generator app
+- Test assertion converter (e.g., fluent to NSubstitute)
+- Advent calendar
+- Story point identifier
+- Salary calculator
+
+### Easy/Quick
+- ADHD text formatter Chrome extension
+- Find the bugs game for new devs
+- Library for fluent log assertions
+- Infographic maker
+- Journal making app
+- Code visualizer
+- Salary raise efficiency calculator
+- Logic tests creator app
+- Retirement annuity outcome calculator
+- Gift registry app with browser extension
+- Mastermind game
+- Album maker app
+- Planning poker game
+- Visual Studio extension that screams on exception
+- Paint by algorithm
+- Slack bot
+- Gmail email sorter
+- Greeting card app
+- Mouse pointer stats gatherer
+- Volunteering UI
+- Puzzle maker
+
+### Medium Complexity/Medium Time
+- Spotify plugin with better shuffle options
+- Clever shopping list using buying patterns
+- Portfolio maker
+- Helper app for ADHD and prioritization
+- C4 diagram drawing app (code or AI prompts)
+- Auto-delete app (based on patterns)
+- Better prioritization app
+- Whiteboard app similar to Miro
+- Content repurposing app with AI
+- Investment success calculator
+- Track files and attachments in Gmail
+- Event list for saved files
+- Neighbourhood patrol app
+- Coding/Work stats tracker and analyzer
+- Choose-your-own-adventure book app
+- Document and file auto-namer with image/content recognition
+- Party planning app with categorized checklists
+- CMS for coding blogs
+- Publish-to-all-social app
+- Gmail attachment finder or improved mail client
+- Story book maker for kids
+- Photo book creation software
+- Web scraper
+- Themed menu maker app
+- Code some electronic decorations for cakes
+- Doorbell playing custom songs or Spotify chimes
+- Pressure sensor for office chair
+- Make an app with Bogus/Faker for dummy data
+- Visual Studio extension for exception handling
+- OCR conversion app
+- Shopping list app with auto-sort and aisle feature
+
+### Difficult/Long Time
+- Spotify plugin playing songs not in playlist yet
+- App for older small business owners to manage an online presence
+- Sign language app with AI validation
+- Arduino or circuit board simulator
+- Medical aid and insurance simplifier app
+- AI-powered PDF analyzer
+- Cupboard design app
+- Data exporter for various formats
+- AI-powered Windows search alternative
+- Music mood identifier and suggestions
+- DnD character generator
+- Library or app for electronic decorations on cakes
+- SSL certificate auto-updater (GoDaddy integration)
+- Dungeons and Dragons app for a dungeon master
+- Advanced pomodoro timer with stretch reminders
+- Map maker with randomizer
+- Personal substack-like app for unread content
+- Garden design/planner app with industry knowledge
+- Payment gateway
+- Mouse pointer stats gatherer with analysis
+- Shift planner app
+- Investment success calculator
+- Timer finder app using AI for scheduling
+
+### Very Difficult/Very Long Time
+- Create an OS
+- Own backend programming language to fix C# annoyances
+- AI time finder app for scheduling preferences
+- Advanced file explorer with smart suggestions
+- Mystery box prompt generator with a cool UI
+- Code visualizer with AI prompts
+- App for analyzing convoluted reward policies (e.g., Discovery)
+- App that simplifies insurance and medical aid schemes
+- AI-powered SPAM/Phishing/Smishing detector
+- App for content repurposing with advanced AI
+- App for auto-deleting emails based on patterns (Gmail integration)
+- Home organizer and improvement app
+- Custom IDE development
+- Code/AI-based C4 diagram app
+- Dynamic Visual Studio project/solution template generator
+- Story book maker for kids with customizable characters
+- App for managing files and attachments efficiently in Gmail
+- App for managing small business online presence for older people
+- Music "mutator" to censor songs
+- App for analyzing medication side effects and mood tracking
+- Retirement and investment calculator with detailed analysis
+
+---
+
+## In tabular format together with potential skills & resources needed:
+_Disclaimer: I used ChatGPT for the sorting_
+
+### **Very Easy/Very Quick**
+
+| **App Idea** | **Skills Needed** | **Resources Needed** |
+|---|---|---|
+| Alphabet Randomizer | Basic JavaScript or C# | IDE (VS Code), JavaScript/C# Docs |
+| Mad libs generator | Basic string manipulation | IDE, Language Docs |
+| Game Timer | Basic UI and timing functions | IDE, Timer Libraries (optional) |
+| Salary calculator | Basic math operations, UI | IDE, C# or JavaScript Docs |
+| Mastermind game | Basic game logic, arrays | IDE, Tutorials on game development |
+| Wheel of Fortune | Basic UI and randomization | IDE, Randomization Libraries |
+| List comparer app | Basic data structures | IDE, Language Docs |
+
+---
+
+### **Easy/Quick**
+
+| **App Idea** | **Skills Needed** | **Resources Needed** |
+|---|---|---|
+| Advent calendar | Basic UI, date handling | IDE, Calendar APIs |
+| Email unsubscriber | REST API, OAuth basics | Gmail API Docs, OAuth credentials |
+| Puzzle maker | Basic UI, grid logic | IDE, Tutorials |
+| Infographic maker | Basic graphics handling | IDE, Graphics Libraries |
+| Music genre classifier | Machine learning basics, data handling | IDE, ML libraries (TensorFlow, Scikit-learn) |
+| Journal making app | UI/UX, database basics | IDE, SQLite or Firebase |
+| Logic tests creator app | Conditional logic, UI | IDE, Tutorials |
+
+---
+
+### **Medium Complexity/Medium Time**
+
+| **App Idea** | **Skills Needed** | **Resources Needed** |
+|---|---|---|
+| ADHD text formatter Chrome extension | JavaScript, DOM manipulation, Chrome APIs | Chrome Developer Docs |
+| Content repurposing app with AI | NLP basics, REST API | OpenAI API, IDE |
+| Garden design/planner app | UI/UX, spatial algorithms, databases | IDE, GIS libraries |
+| Discovery simplifier and reward finder | Web scraping, data parsing | IDE, Web Scraping Libraries |
+| File explorer with smart suggestions | File system APIs, AI basics | IDE, AI SDKs |
+| OCR conversion | Image processing, text extraction | OCR APIs (Tesseract) |
+| Spotify plugin with better shuffle | Spotify API, REST API | Spotify Developer Docs |
+
+---
+
+### **Difficult/Long Time**
+
+| **App Idea** | **Skills Needed** | **Resources Needed** |
+|---|---|---|
+| App that simplifies medical aid and insurance schemes | Data handling, UI/UX, domain knowledge | API access, IDE, Insurance data |
+| CMS to create coding blogs | Backend (C# or Python), databases, security | IDE, Hosting, Database |
+| Email sorter with AI | Machine learning, NLP | AI SDKs, Email APIs |
+| Sign language app with user uploads | AI, image processing, video handling | AI APIs, IDE, Cloud storage |
+| Retro remakes of DOS games in Unity | Game design, Unity, C# | Unity IDE, Tutorials |
+| Dynamic Visual Studio template generator | C#, templating, Visual Studio SDK | VS SDK, IDE |
+| Spotify plugin for artist-based playback | Spotify API, REST, algorithms | Spotify Developer Account |
+
+---
+
+### **Very Difficult/Very Long Time**
+
+| **App Idea** | **Skills Needed** | **Resources Needed** |
+|---|---|---|
+| Create an OS | Low-level C/C++, memory management | Bare metal hardware, OS dev guides |
+| Write your own backend programming language | Compiler theory, C#, memory handling | IDE, Compiler design books |
+| AI-powered file search alternative | NLP, AI, indexing algorithms | AI SDKs, Cloud computing |
+| Arduino or circuit board simulator | Embedded C/C++, hardware simulations | Arduino kits, Simulator software |
+| SSL certificate auto-updater with GoDaddy | Networking, security, REST APIs | GoDaddy API, SSL resources |
+| Playbook/Runbook documentation app | Advanced UI/UX, markdown rendering | IDE, Markdown Libraries |
+| Visual Studio extension for exception handling | C#, Visual Studio SDK | VS SDK, IDE |
+
+---
+
+
 
 
